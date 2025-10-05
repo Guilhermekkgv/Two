@@ -4564,7 +4564,7 @@ function Linux.Create(config)
             
             local TextBoxFrame = Linux.Instance("Frame", {
                 Parent = Input,
-                BackgroundColor3 = Color3.fromRGB(30, 30, 32),
+                BackgroundColor3 = Color3.fromRGB(23, 23, 27),
                 BackgroundTransparency = 0.7,
                 BorderSizePixel = 0,
                 Size = UDim2.new(0.5, -20, 0, 24),
